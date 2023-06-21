@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CORGrocery", "CORGrocery\CORGrocery.csproj", "{D74AD09D-9056-4102-900F-4DE62D8FFB4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D74AD09D-9056-4102-900F-4DE62D8FFB4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D74AD09D-9056-4102-900F-4DE62D8FFB4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D74AD09D-9056-4102-900F-4DE62D8FFB4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D74AD09D-9056-4102-900F-4DE62D8FFB4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D370BED-2BC2-41C2-890D-2B82FAF77ECB}
+	EndGlobalSection
+EndGlobal
